@@ -415,6 +415,10 @@
      transition: all 500ms ease;
  }
  
+ .pos {
+     top: 87px;
+ }
+ 
  .theme-btn:hover {
      color: #fff;
  }
@@ -636,7 +640,17 @@
      font-size: 48px;
      line-height: 56px;
      font-weight: 600;
-     margin: 0px;
+     margin: 25px;
+     bottom: 95px;
+ }
+ 
+ .title2 {
+     position: relative;
+     display: block;
+     font-size: 48px;
+     line-height: 56px;
+     font-weight: 600;
+     margin: 25px;
  }
  
  .sec-title.light h2,
@@ -2099,7 +2113,7 @@
  }
  
  .theme-btn.btn-second {
-     background: darkgreen
+     background: darkgreen;
  }
  
  .main-header .menu-right-content .search-toggler:hover {
