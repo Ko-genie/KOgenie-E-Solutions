@@ -674,6 +674,16 @@
      top: 30px;
  }
  
+ #getInTouch {
+     position: relative;
+     display: block;
+     font-size: 48px;
+     line-height: 48px;
+     font-weight: 600;
+     margin: 25px;
+     bottom: 80px;
+ }
+ 
  .sec-title.light h2,
  .sec-title.light .sub-title {
      color: #fff !important;
