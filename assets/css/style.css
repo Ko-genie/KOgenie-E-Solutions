@@ -430,6 +430,10 @@
      bottom: 58px;
  }
  
+ #beech {
+     top: 3px;
+ }
+ 
  .theme-btn:hover {
      color: #fff;
  }
