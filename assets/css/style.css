@@ -653,6 +653,27 @@
      margin: 25px;
  }
  
+ .title3 {
+     position: relative;
+     display: block;
+     font-size: 48px;
+     line-height: 48px;
+     font-weight: 600;
+     margin: 25px;
+     top: 58px;
+ }
+ 
+ #spacingP {
+     position: relative;
+     font-family: var(--text-font);
+     color: black;
+     font-weight: 400;
+     margin: 37px;
+     transition: all 500ms ease;
+     right: 5px;
+     top: 30px;
+ }
+ 
  .sec-title.light h2,
  .sec-title.light .sub-title {
      color: #fff !important;
