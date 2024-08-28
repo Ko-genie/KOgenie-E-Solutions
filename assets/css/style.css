@@ -663,6 +663,16 @@
      top: 58px;
  }
  
+ #fq {
+     position: relative;
+     display: block;
+     font-size: 48px;
+     line-height: 48px;
+     font-weight: 600;
+     margin: 25px;
+     bottom: 280px;
+ }
+ 
  #spacingP {
      position: relative;
      font-family: var(--text-font);
