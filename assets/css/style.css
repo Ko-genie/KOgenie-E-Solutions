@@ -419,6 +419,17 @@
      bottom: 34px;
  }
  
+ #posi {
+     position: relative;
+     font-family: var(--title-font);
+     font-weight: 600;
+     color: var(--title-color);
+     margin: 0px;
+     padding: 5px;
+     transition: all 500ms ease;
+     bottom: 58px;
+ }
+ 
  .theme-btn:hover {
      color: #fff;
  }
