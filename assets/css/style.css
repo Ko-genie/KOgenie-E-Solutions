@@ -1537,7 +1537,7 @@
  .mobile-menu .navigation li>ul,
  .mobile-menu .navigation li>ul>li>ul,
  .mobile-menu .navigation>li.dropdown>.megamenu {
-     display: none;
+     display: block;
  }
  
  .mobile-menu .social-links {
