@@ -1059,9 +1059,8 @@
  .light-home .main-menu .navigation>li>a {
      color: #fff;
  }
- 
- .main-menu .navigation>li.current>a,
- .main-menu .navigation>li:hover>a {}
+ /*👉 .main-menu .navigation>li.current>a,
+ .main-menu .navigation>li:hover>a {}👈*/
  
  .main-menu .navigation>li>ul,
  .main-menu .navigation>li>.megamenu {
