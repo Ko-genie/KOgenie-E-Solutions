@@ -441,6 +441,7 @@
  
  .theme-btn.btn-one:hover {
      background: #6600ff;
+     background: linear-gradient(to right, #a78bfa, #ec4899);
  }
  
  .theme-btn:before {
@@ -2174,7 +2175,7 @@
  }
  
  .theme-btn.btn-second {
-     background: darkgreen;
+     background: linear-gradient(to right, #a78bfa, #ec4899);
  }
  
  .main-header .menu-right-content .search-toggler:hover {
