@@ -74,6 +74,7 @@
      color: var(--text-color);
      line-height: 26px;
      font-weight: 400;
+     overflow-x: hidden;
      /*👉background: #FCFBFC;👈*/
      font-family: var(--text-font);
      background-size: cover;
@@ -2517,4 +2518,24 @@
      margin-left: 35px;
      margin-bottom: 0px;
      margin-right: 0px;
+ }
+ 
+ .left-headings {
+     left: 5px;
+ }
+ 
+ .p-change {
+     right: 7px;
+ }
+ 
+ .p-cookie-change {
+     left: 10px;
+ }
+ 
+ .up-refund-text {
+     bottom: 69px;
+ }
+ 
+ #headsup {
+     top: 0px;
  }
