@@ -2170,8 +2170,18 @@
  }
  
  .theme-btn.btn-one {
-     background: #DB4A2B;
- }
+    background: #DB4A2B; /* Original background color */
+    color: white; /* Text color */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.theme-btn.btn-one:hover {
+    background-color: #E75B3D; /* Lighter/more vibrant shade for hover */
+}
+ 
  
  .theme-btn.btn-second {
      background: var(--theme-color);
@@ -2596,3 +2606,15 @@
     background-color: #333;
     
   }
+  .cta {
+    background-color: #00796B; /* Original background color */
+    color: white; /* Text color */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.cta:hover {
+    background-color: #009688; /* Lighter shade for hover */
+}
